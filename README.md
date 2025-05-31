@@ -4,4 +4,4 @@
 The dataset can be found here: https://huggingface.co/datasets/Sujal08/BACE1_Inhibition
 
 <h3>Model</h3>
-The model can be found here: https://huggingface.co/Sujal08/BACE1-Inhibition
+Download and use model from here: https://huggingface.co/Sujal08/BACE1-Inhibition
