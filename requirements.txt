@@ -8,3 +8,4 @@ seaborn
 rdkit
 optuna
 joblib
+scikit-fingerprints
